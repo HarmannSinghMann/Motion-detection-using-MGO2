@@ -70,3 +70,9 @@ You can find more information about OpenCV and its documentation at the followin
 1. Clone the repository or download the `motion_detection.py` script.
 2. Install the required dependencies: `pip install opencv-python`.
 3. Run the script by providing the video path as an argument:
+    Replace `path/to/video/file.mp4` with the actual path to your video file.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
