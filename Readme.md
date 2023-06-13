@@ -6,6 +6,7 @@ This repository contains a Python script that performs motion detection using Op
 
 The Python script uses the OpenCV library to perform motion detection. It applies background subtraction to separate the foreground (moving objects) from the background in each frame. The script then applies thresholding and contour detection to identify and draw bounding rectangles around the detected objects. The resulting frames, along with the foreground mask, are displayed in separate windows.
 
+<<<<<<< HEAD
 Here's an example scenario:
 
 Scenario: Wildlife Protection in Restricted Areas
@@ -31,7 +32,9 @@ Scenario: Wildlife Protection in Restricted Areas
    - Integration with Security Systems: The motion detection system can be integrated with existing security infrastructure, such as surveillance networks or alarm systems, for centralized monitoring and management.
 
 By deploying motion detection using OpenCV, forest authorities can enhance their surveillance capabilities, improve wildlife protection efforts, and deter unauthorized access to restricted areas in forests.
-![Sample Output](images/sample_output.png)
+
+![Sample 1](images/bbox_0.JPG) ![Foreground Image](images/f_m_0.JPG) 
+>>>>>>> 9fbdfbef5456d7226c6d8c20aab485611d67da9d
 
 ## Practical Applications in Industry
 
